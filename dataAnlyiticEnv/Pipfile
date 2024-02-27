@@ -10,6 +10,8 @@ notebook = "*"
 pandas = "*"
 openpyxl = "*"
 pyarrow = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
